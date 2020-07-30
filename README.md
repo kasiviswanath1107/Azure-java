@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/chrishantha/sample-java-programs.svg?branch=master)](https://travis-ci.org/chrishantha/sample-java-programs)
+[![Build Status](https://dev.azure.com/kasiviswanath444/Demo/_apis/build/status/kasiviswanath1107.Azure-java?branchName=master)](https://dev.azure.com/kasiviswanath444/Demo/_build/latest?definitionId=1&branchName=master)
 
 Sample Java Programs
 ====================
